@@ -21,7 +21,7 @@ function compute()
     var interest = principal * years * rate/100;
     resultyear = new Date().getFullYear()+parseInt(years);
     document.getElementById("result").innerHTML = 
-    "If you deposit <mark>"+principal+"</mark>,<br>&#160&#160&#160&#160 at an interest rate of <mark>"+rate+"%</mark>.<br>&#160&#160&#160&#160 You will receive an amount of <mark>"+interest+"</mark>,<br>&#160&#160&#160&#160 in the year <mark>"+resultyear+"</mark>";
+    "If you deposit <mark>"+principal+"</mark>,<br>&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160 at an interest rate of <mark>"+rate+"%</mark>.<br>&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160 You will receive an amount of <mark>"+interest+"</mark>,<br>&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160 in the year <mark>"+resultyear+"</mark>";
     
     return true;
     

@@ -1,6 +1,6 @@
 body {
-      background-color:white;
-      color:black;
+      background-color:black;
+      color:white;
       font-family:arial;
      }
 h1 {
@@ -13,8 +13,8 @@ h1 {
         font-family:arial;
         font-weight:500;
         width:500px;
-        padding:50px;
-        border-radius:100px;
+        padding:25px;
+        border-radius:30px;
         align:center;
        }
 button {
