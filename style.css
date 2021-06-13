@@ -1,4 +1,27 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {
+      background-color:white;
+      color:black;
+      font-family:arial;
+     }
+h1 {
+    color:grey; 
+    font-family:verdana;
+    }
+.maindiv{
+        background-color:white;
+        color:black;
+        font-family:arial;
+        font-weight:500;
+        width:500px;
+        padding:50px;
+        border-radius:100px;
+        align:center;
+       }
+button {
+        background-color:lightgrey;
+        color:black;
+       }
+mark {
+        background-color:yellow;
+        color:black;
+    }
