@@ -1,7 +1,7 @@
 function updateRate()
 {
     var ratevalue = document.getElementById("rate").value;
-    document.getElementById("rate_val").innerText=ratevalue;
+    document.getElementById("rate_val").innerText=ratevalue+"%";
     return true;
 }
 
